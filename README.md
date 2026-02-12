@@ -27,13 +27,13 @@ Scalable AI and ML Systems - Dan Zaratsian, February 2026
 
 **Assignments**
 * [Assignment 1 SQL](./session_02/Assignment_1_SQL.md)
-  - Due on Thursday, February 19 by 11:59pm EST
+  - Due on Monday, February 23 by 11:59pm EST
   - Please complete as an individual assignment
   - Go to the URL that I provide in the [Assignment 1 SQL doc](./session_02/Assignment_1_SQL.md) and upload your SQL code as a .sql or .txt.
 
 * [Assignment 2 NoSQL](https://colab.research.google.com/drive/1Fp8OYxF9cyY-WIinV4w4IXOxCIRMW0v3?usp=sharing)
   - This is an OPTIONAL assignment. 
-  - Due on Thursday, February 19 by 11:59pm EST
+  - Due on Monday, February 23 by 11:59pm EST
   - Please complete as an individual assignment
   - No need to email your code for assignment #2 unless you want specific code / syntax feedback. I'll be able to see the submitted results within the Firestore DB.
 
@@ -53,7 +53,10 @@ Scalable AI and ML Systems - Dan Zaratsian, February 2026
 * Notebook - [PySpark NFL Play Predictions](https://colab.research.google.com/drive/1MeES47R-35fiKsOOdXQlu2YD4bFp5qj1?authuser=1#scrollTo=8gAjWzfss5nB)
 
 **Assignment**
-* Coming...
+* [Assignment 3 - SparkML](https://colab.research.google.com/drive/1AVRfN0SUVBiX5V7YpaMyn4BFu4dmr3Ht?usp=sharing)
+  - Due on Wednesday, March 19 at 11:59pm EST
+  - Please complete as an individual assignment.
+  - Save your code as .txt or .py and upload to https://h-scoring-116629923513.us-central1.run.app/spark
 
 ---
 ## IAA Module - Session 4 - Cloud Services for Generative AI
@@ -71,7 +74,12 @@ Scalable AI and ML Systems - Dan Zaratsian, February 2026
 * [Example Notebook for Simple LLM call for an Open Model](https://colab.research.google.com/drive/10im09lf9BuZI67lIvbmLDNg8tH9HfPpK?usp=sharing)
 
 **Assignment**
-* Coming...
+* [Assignment 4 - GenAI](./session_04/genai_assignment.md)
+  - Due on Monday, March 2 at 11:59pm EST
+  - Please complete as a Team (homework groups) assignment.
+  - Deliverables:
+    1. Email me a screen recording (video) of you using the app. I prefer that video be uploaded to Google Drive and shared as a link, but you can share with me howevever is easiest. This can be a quick screen recording, don't worry about getting it perfect, but rather I just want to see how the app works and how you interact with it. 
+    2. Email me a .zip of your code so that I can review it (I will consolidate and share all projects with the rest of the IAA students for learning purposes). 
 
 ---
 ## IAA Module - Session 5 - Cloud Machine Learning

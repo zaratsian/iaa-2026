@@ -10,7 +10,7 @@ Helpful Links:
 * [BigQuery Quickstart](https://cloud.google.com/bigquery/docs/quickstarts/query-public-dataset-console)
 * [Get Started with BigQuery ML](https://cloud.google.com/bigquery/docs/create-machine-learning-model)
 * [BigQuery ML Linear Regression Example](https://cloud.google.com/bigquery/docs/linear-regression-tutorial)
-
+    
 ## Part 1: Data Exploration and Feature Engineering
 
 1.  **Access the Dataset:**
