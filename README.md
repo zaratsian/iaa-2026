@@ -27,13 +27,13 @@ Scalable AI and ML Systems - Dan Zaratsian, February 2026
 
 **Assignments**
 * [Assignment 1 SQL](./session_02/Assignment_1_SQL.md)
-  - Due on Wednesday, March 19 at 11:59pm EST
+  - Due on Thursday, February 19 by 11:59pm EST
   - Please complete as an individual assignment
   - Go to the URL that I provide in the [Assignment 1 SQL doc](./session_02/Assignment_1_SQL.md) and upload your SQL code as a .sql or .txt.
 
 * [Assignment 2 NoSQL](https://colab.research.google.com/drive/1Fp8OYxF9cyY-WIinV4w4IXOxCIRMW0v3?usp=sharing)
   - This is an OPTIONAL assignment. 
-  - Due on Wednesday, March 19 at 11:59pm EST (Pushed to this date due to Spring Break)
+  - Due on Thursday, February 19 by 11:59pm EST
   - Please complete as an individual assignment
   - No need to email your code for assignment #2 unless you want specific code / syntax feedback. I'll be able to see the submitted results within the Firestore DB.
 
