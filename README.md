@@ -54,7 +54,7 @@ Scalable AI and ML Systems - Dan Zaratsian, February 2026
 
 **Assignment**
 * [Assignment 3 - SparkML](https://colab.research.google.com/drive/1AVRfN0SUVBiX5V7YpaMyn4BFu4dmr3Ht?usp=sharing)
-  - Due on Wednesday, March 19 at 11:59pm EST
+  - Due on Wednesday, February 25 at 11:59pm EST
   - Please complete as an individual assignment.
   - Save your code as .txt or .py and upload to https://h-scoring-116629923513.us-central1.run.app/spark
 
