@@ -40,7 +40,7 @@ Scalable AI and ML Systems - Dan Zaratsian, February 2026
 ---
 ## IAA Module - Session 3 - Spark Data Processing & Machine Learning
 
-[**Slides**]()
+[**Slides**](https://docs.google.com/presentation/d/1JG4nMPv1ryovSpZG62XGS0frzpb0c82EEincZZ7acMU/edit?usp=sharing)
 
 * [Apache Spark](https://spark.apache.org/) Overview
 * Spark Machine Learning ([MLlib](https://spark.apache.org/docs/latest/ml-guide.html))
@@ -65,7 +65,7 @@ Scalable AI and ML Systems - Dan Zaratsian, February 2026
 
 * [GenAI on Google Cloud](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/overview)
 * [Google Generative AI Models](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/models)
-* [Google Gemini 2.0 Quickstart](https://cloud.google.com/vertex-ai/generative-ai/docs/gemini-v2)
+* [Google Gemini Quickstart](https://cloud.google.com/vertex-ai/generative-ai/docs/gemini-v2)
 * [Overview of Google Cloud Model Garden](https://cloud.google.com/vertex-ai/generative-ai/docs/model-garden/explore-models)
 * [Langchain](https://python.langchain.com/docs/get_started/introduction)
 * [Huggingface Models](https://huggingface.co/models)
