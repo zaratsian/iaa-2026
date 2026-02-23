@@ -61,7 +61,7 @@ Scalable AI and ML Systems - Dan Zaratsian, February 2026
 ---
 ## IAA Module - Session 4 - Cloud Services for Generative AI
 
-[**Slides**]()
+[**Slides**](https://docs.google.com/presentation/d/1tMwEf6bC5CYKCqaFMnJvEAVhoVe8rNujV_OelGFInuA/edit?usp=sharing)
 
 * [GenAI on Google Cloud](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/overview)
 * [Google Generative AI Models](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/models)
