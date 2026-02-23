@@ -65,7 +65,8 @@ Scalable AI and ML Systems - Dan Zaratsian, February 2026
 
 * [GenAI on Google Cloud](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/overview)
 * [Google Generative AI Models](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/models)
-* [Google Gemini Quickstart](https://cloud.google.com/vertex-ai/generative-ai/docs/gemini-v2)
+* [Google Gemini Quickstart](https://docs.cloud.google.com/vertex-ai/generative-ai/docs/start)
+* [Google Agent Development Kit (ADK)](https://google.github.io/adk-docs/)
 * [Overview of Google Cloud Model Garden](https://cloud.google.com/vertex-ai/generative-ai/docs/model-garden/explore-models)
 * [Langchain](https://python.langchain.com/docs/get_started/introduction)
 * [Huggingface Models](https://huggingface.co/models)
