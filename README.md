@@ -85,7 +85,7 @@ Scalable AI and ML Systems - Dan Zaratsian, February 2026
 ---
 ## IAA Module - Session 5 - Cloud Machine Learning
 
-[**Slides**]()
+[**Slides**](https://docs.google.com/presentation/d/11Eu-KjMMDK98c_bMu4qhPhCL4j1wyeOVMiB9bJFONQM/edit?usp=sharing)
 
 * Overview of Google Cloud Machine Learning Services
 * [AutoML](https://cloud.google.com/automl)
