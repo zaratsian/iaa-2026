@@ -97,7 +97,7 @@ Scalable AI and ML Systems - Dan Zaratsian, February 2026
 ---
 ## IAA Module - Session 6 - Cloud Services for ML & Serverless
 
-[**Slides**]()
+[**Slides**](https://docs.google.com/presentation/d/1avRm-Ezi4Zj4GiAMR55OgfWN13C7pnvWy6Ck4kya7zQ/edit?usp=sharing)
 
 * Overview of Google Cloud Services
 * [Cloud Functions](https://cloud.google.com/functions)
